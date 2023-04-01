@@ -1,6 +1,6 @@
-# grub multiboot
+# grub multiboot usb
 
-Boot multiple operating systems with grub
+Boot multiple operating systems with grub from usb flash drive
 
 ## Description
 
